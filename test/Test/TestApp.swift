@@ -1,6 +1,6 @@
 //
-//  testApp.swift
-//  test
+//  TestApp.swift
+//  Test
 //
 //  Created by John Chen on 2/12/24.
 //
@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct testApp: App {
+struct TestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomePageView()
         }
     }
 }
